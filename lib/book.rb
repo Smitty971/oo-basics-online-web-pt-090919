@@ -32,4 +32,8 @@ class Book
     @genre
   end
 
+  def turn
+
+  end
+
 end
